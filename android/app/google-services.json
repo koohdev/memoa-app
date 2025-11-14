@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "787370737165",
+    "firebase_url": "https://memoa-68187-default-rtdb.firebaseio.com",
+    "project_id": "memoa-68187",
+    "storage_bucket": "memoa-68187.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787370737165:android:646822852b6fa5ae459f44",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLGSpCs2o14jbkA92pWH34AUfScjxsLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

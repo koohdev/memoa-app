@@ -1,0 +1,28 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "memoa-68187",
+          "appId": "1:787370737165:android:646822852b6fa5ae459f44",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "memoa-68187",
+          "configurations": {
+            "android": "1:787370737165:android:646822852b6fa5ae459f44",
+            "web": "1:787370737165:web:3beb80113cbc6d77459f44"
+          }
+        }
+      }
+    }
+  }
+}
